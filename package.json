@@ -1,5 +1,5 @@
 {
-  "name": "yandex_gas_proxy",
+  "name": "yandex-gas-proxy",
   "version": "1.0.0",
   "main": "api/index.js",
   "type": "module"
